@@ -1,0 +1,1 @@
+enum PostureTypes {GOOD, BAD_LEFT, BAD_RIGHT, BAD_FRONT, BAD_BACK, ACTIVE}
